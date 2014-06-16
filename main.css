@@ -2,12 +2,12 @@
 
 
 /*Data Table */
-#instructors {
+.instructors {
 	width: 80%;
 	font-family: serif;
 }
 
-#instructors td {
+.instructors td {
 	padding: .5em;
 }
 
