@@ -1,0 +1,44 @@
+/* ADD YOUR STYLES HERE */
+
+
+/*Data Table */
+#instructors {
+	width: 80%;
+	font-family: serif;
+}
+
+#instructors td {
+	padding: .5em;
+}
+
+.header {
+	border-bottom: double;
+	font-size: 110%;
+}
+
+.item1 {
+	border-bottom-style: solid;
+}
+
+.item2 {
+	border-bottom-style: solid;
+}
+
+.item3 {
+	border-bottom-style: solid;
+}
+
+/*Stats*/
+
+#social {
+
+}
+
+.number {
+	font-size: 180%;
+	font-weight: bold;
+}
+
+.desc {
+	color: grey;
+}
