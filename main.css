@@ -78,5 +78,60 @@
 
 /*Lightbox*/
 
+.lightbox {
+	width: 100%;
+}
+
+
+
+
+
+/*
+.lightbox {
+	/*position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	
+
+	height: 500px;
+
+	width: 100%;
+	background: rgba(0,0,0,0.65);
+	display: table;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.lightbox-container {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.lightbox-content {
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 10px;
+	max-width: 500px;
+	margin: 0 auto;
+	overflow: hidden;
+}*/
+
+
+
+/*Media Block*/
+
+
+.media-block {
+
+	float: left;
+	padding-right: 5px;
+	margin-bottom: 50px;
+}
+
+.media-content {
+	clear: right;
+	overflow: hidden;
+}
 
 
