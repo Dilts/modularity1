@@ -30,15 +30,53 @@
 
 /*Stats*/
 
-#social {
+.social {
+	border-bottom-style: solid;
+	border-top-style: solid;
+}
 
+.social tr td {
+	padding: 0px 10px;
+	
 }
 
 .number {
 	font-size: 180%;
 	font-weight: bold;
+	text-align: center;
+	
+
 }
 
 .desc {
 	color: grey;
+	text-align: center;
 }
+
+
+/*Bar Chart*/
+.barchart {
+	max-width: 600px;
+}
+
+.barchart tr th {
+	text-align: right;
+	padding-right: 5px;
+}
+
+.barchart tr td {
+	width: 100%;
+}
+
+.bar {
+	background-color: blue;
+	color: white;
+	padding-left: 5px;
+	border-radius: 0 5px 5px 0;
+
+}
+
+/*Lightbox*/
+
+
+
